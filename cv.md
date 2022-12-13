@@ -1,7 +1,3 @@
-# rsschool-cv
-
-https://elastomaniac.github.io/rsschool-cv/
-
 # Kirdyashev Vasily
 
 ## Contacts:
