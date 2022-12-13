@@ -1,0 +1,19 @@
+h1 {
+color:#0000FF;
+}
+
+.container {
+  display: flex;
+  background-image:  #aaa;
+}
+
+.margin {
+  padding: 10px 20px;
+  margin: 30px;
+  border: 5px solid #040;
+  border-style: dotted;
+}
+
+#padding {
+  color: #f00;
+}
