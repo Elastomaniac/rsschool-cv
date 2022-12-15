@@ -2,7 +2,10 @@
 
 ## Contacts:
 
-email: vasyan89@gmail.com skype: gstq gstq, tel: +79164482945, discord: Elastomaniac#3013
+- email: vasyan89@gmail.com
+- skype: gstq gstq,
+- tel: +79164482945,
+- discord: Elastomaniac#3013
 
 ## About me:
 
