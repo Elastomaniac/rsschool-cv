@@ -1,5 +1,14 @@
 * {
   box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
 }
 
 html {
@@ -11,6 +20,13 @@ html {
   src: url("./assets/fonts/Roboto/Roboto-Regular.ttf");
   font-weight: 400;
 }
+
+@font-face {
+  font-family: Roboto;
+  src: url("https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap");
+  font-weight: 700;
+}
+
 body {
   min-height: 100vh;
   display: flex;
@@ -18,14 +34,10 @@ body {
   justify-content: space-between;
 }
 
-h1 {
-  text-align: center;
-}
-
 .header-container {
   width: auto;
   height: 30px;
-  background-color: darkblue;
+  background-color: #467352;
 }
 
 .nav {
@@ -46,6 +58,7 @@ h1 {
 
 a.nav-link {
   color: white;
+  text-transform: uppercase;
 }
 
 .job-title {
@@ -54,20 +67,14 @@ a.nav-link {
 
 .image {
   width: 200px;
-  height: 200px;
-  display: block;
-  margin: 0, auto;
 }
 
 .main-container {
   text-align: center;
 }
 
-.main-container-header {
-  text-align: center;
-}
 .footer {
-  background-color: darkblue;
+  background-color: #467352;
   color: white;
 }
 
@@ -79,7 +86,7 @@ a.nav-link {
   line-height: 53px;
   height: 53px;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .footer a {
